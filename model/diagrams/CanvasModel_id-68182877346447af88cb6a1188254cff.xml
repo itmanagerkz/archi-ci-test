@@ -87,8 +87,8 @@
         borderColor="#C0C0C0"
         textPosition="4">
       <bounds
-          x="84"
-          y="48"
+          x="168"
+          y="24"
           width="169"
           height="61"/>
     </children>
